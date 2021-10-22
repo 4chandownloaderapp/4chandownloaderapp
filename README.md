@@ -43,8 +43,9 @@ Files_5_Thumbs
 WebPage
 9. Copy DownloadFile.ps1 file, included in "4ch_Downloader" to folders Files_1_Script, Files_2_Script, Files_3_Script, Files_4_Script, Files_5_Script
 10. Copy DownloadWebpage.ps1 file, included in "4ch_Downloader" to WebPage folder
-11. To start downloading data to your database, open Visual Studio and open project included in 4ch_Downloader repository.
-12. Change Project.params in the project:
+11. Copy bin folder from ffmpeg-git-full.7z you downloaded to ffmpeg folder
+12. To start downloading data to your database, open Visual Studio and open project included in 4ch_Downloader repository.
+13. Change Project.params in the project:
 DatabaseServerName - Server name where you will store your 4chan data
 WorkspacePath - Path to folder you created for storing temporary data
 13. You can start downloading data - click on Start. If you don't want to deal with PS windows poping up, you can use option "Debug->Start Without Debugging" - single command prompt windows will open after starting.
