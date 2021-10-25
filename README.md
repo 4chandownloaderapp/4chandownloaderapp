@@ -30,9 +30,7 @@ ffmpeg-git-full.7z
 10. Copy bin folder from ffmpeg-git-full.7z you downloaded to ffmpeg folder
 11. To start downloading data to your database, open Visual Studio and open project included in 4ch_Downloader repository.
 12. Change Project.params in the project:
-
-DatabaseServerName - Server name where you will store your 4chan data
-
-WorkspacePath - Path to folder you created for storing temporary data
+- DatabaseServerName - Server name where you will store your 4chan data
+- WorkspacePath - Path to folder you created for storing temporary data
 13. You can start downloading data - click on Start. If you don't want to deal with PS windows poping up, you can use option "Debug->Start Without Debugging" - single command prompt windows will open after starting.
 14. You can check your downloaded data using SQL Server Management Studio or search Interface included in "4chanviewer" repository
