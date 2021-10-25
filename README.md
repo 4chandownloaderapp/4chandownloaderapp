@@ -8,7 +8,7 @@ Contact: 4chan_downloader_app(at)superbox.pl
 3. Visual Studio Windows Forms C# Project (4chanviewer repository) - Application for viewing data stored in the database.
 
 How does it work?
-4chandownloaderapp downloads periodically first page of chosen board and saves new content(new posts, threads, files) in the database. This solution is not perfect because if there is a lot of traffic on the board, it can miss some posts but usually it's good enough to save most content posted on boards to database.
+4chandownloaderapp downloads periodically first page of chosen board and saves new content(new posts, threads, files) in the database. This solution is not perfect because if there is a lot of traffic on the board, it can miss some posts but usually it's good enough to save most content posted on boards
 
 How to start your own  4chandownloaderapp?
 1. Install Microsoft SQL Server.
