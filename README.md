@@ -1,4 +1,5 @@
 I'm currently working on making this app easier to use, there will be new commits in near future. More info soon.
+Contact: 4chan_downloader_app(at)superbox.pl
 
 4chandownloaderapp is app that allows to download all new data posted on chosen 4chan boards and store it in Microsoft SQL Server Database. The application consists of three components:
 1. Microsoft SQL Server Database (4ch_Database repository) - Database for storing 4chan data (posts, threads, files).
